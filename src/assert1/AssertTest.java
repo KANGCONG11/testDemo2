@@ -10,8 +10,6 @@ public class AssertTest {
     public static void main(String[] args) {
 
 
-        System.out.println(md2(11, 22, 33, 44));
-        System.out.println("master");
     }
 
 

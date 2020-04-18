@@ -8,9 +8,7 @@ package assert1;
  */
 public class AssertTest {
     public static void main(String[] args) {
-//        String str = "111";
-//        assert str == null : "异常";
-//        System.out.println("111");
+
 
         System.out.println(md2(11, 22, 33, 44));
         System.out.println("master");

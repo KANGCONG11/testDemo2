@@ -12,7 +12,6 @@ public class AssertTest {
 
         System.out.println(md2(11, 22, 33, 44));
         System.out.println("master");
-        System.out.println("1");
     }
 
 

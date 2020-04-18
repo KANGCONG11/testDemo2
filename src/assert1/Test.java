@@ -6,5 +6,7 @@ public class Test {
         System.out.println("Hello World");
         System.out.println("1");
         System.out.println("feature1");
+        System.out.println("----------------");
+        System.out.println("master 1");
     }
 }

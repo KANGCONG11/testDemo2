@@ -11,6 +11,7 @@ public class AssertTest {
 
 
         System.out.println(md2(11, 22, 33, 44));
+        System.out.println("feature2");
     }
 
 

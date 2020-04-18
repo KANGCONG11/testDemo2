@@ -8,6 +8,7 @@ package assert1;
  */
 public class AssertTest {
     public static void main(String[] args) {
+        System.out.println("master");
 
 
     }
